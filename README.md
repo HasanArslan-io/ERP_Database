@@ -1,6 +1,6 @@
 # ERP Database
 
-SQL Server ile geliştirilmiş örnek ERP veritabanı projesi.
+SQL Server üzerinde geliştirilen örnek ERP veritabanı projesi.
 
 ## İçerik
 - Customers tablo yapısı
