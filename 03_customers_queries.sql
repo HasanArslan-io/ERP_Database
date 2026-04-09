@@ -95,11 +95,13 @@ HAVING COUNT(*) > 2;
 -- ========================
 
 -- CustomerID 1 olan müşterinin şehrini güncelle
+-- dikkat: veri değiştirir
 UPDATE Customers
 SET City = 'Ankara'
 WHERE CustomerID = 1;
 
 -- CustomerID 5 olan müşteriyi sil (test amaçlı)
+-- dikkat: veri değiştirir
 DELETE FROM Customers
 WHERE CustomerID = 5;
 
