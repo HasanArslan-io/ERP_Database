@@ -3,6 +3,7 @@ ERP_Database
 SQL Server ile geliştirilmiş ERP tabanlı veritabanı projesidir.
 
 Amaç
+
 Gerçek bir küçük işletme senaryosu baz alınarak ERP mantığıyla tasarlanmış ilişkisel veritabanı projesi. Her tablo için ayrı sorgu dosyaları hazırlanmış olup SQL konuları uygulamalı olarak işlenmiştir.
 
 
@@ -14,6 +15,7 @@ Products — Ürün kataloğu ve stok
 OrderDetails — Sipariş detayları ve ilişkisel yapı
 
 Kullanılan Konular
+
 Temel & Orta Seviye
 
 CREATE TABLE, INSERT, UPDATE, DELETE
