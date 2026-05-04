@@ -1,13 +1,13 @@
-ERP_Database
+**ERP_Database**
 
 SQL Server ile geliştirilmiş ERP tabanlı veritabanı projesidir.
 
-Amaç
+**Amaç**
 
 Gerçek bir küçük işletme senaryosu baz alınarak ERP mantığıyla tasarlanmış ilişkisel veritabanı projesi. Her tablo için ayrı sorgu dosyaları hazırlanmış olup SQL konuları uygulamalı olarak işlenmiştir.
 
 
-Tablo Yapısı
+**Tablo Yapısı**
 
 Customers — Müşteri kayıtları ve yönetimi
 
@@ -18,9 +18,9 @@ Products — Ürün kataloğu ve stok
 OrderDetails — Sipariş detayları ve ilişkisel yapı
 
 
-Kullanılan Konular
+**Kullanılan Konular**
 
-Temel & Orta Seviye
+-Temel & Orta Seviye
 
 CREATE TABLE,INSERT,UPDATE, DELETE
 
@@ -42,7 +42,7 @@ CAST / CONVERT, COALESCE
 
 PRIMARY KEY, FOREIGN KEY
 
-İleri Seviye (Geliştirme Sürecinde)
+-İleri Seviye (Geliştirme Sürecinde)
 
 CTE (Common Table Expressions)
 
@@ -62,6 +62,6 @@ Execution Plan okuma
 
 Query Optimization
 
-Durum
+**Durum**
 
 Proje aktif geliştirme sürecindedir. İleri seviye konular düzenli olarak eklenmektedir.
